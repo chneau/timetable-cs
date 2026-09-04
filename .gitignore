@@ -34,3 +34,4 @@ project.assets.json
 # Test results
 TestResults/
 *.trx
+private/
